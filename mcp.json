@@ -1,0 +1,6 @@
+{
+  "name": "open-design-mcp",
+  "command": "python",
+  "args": ["C:/Users/Deglu/.hermes/tools/open-design/mcp_server.py"],
+  "env": {}
+}
